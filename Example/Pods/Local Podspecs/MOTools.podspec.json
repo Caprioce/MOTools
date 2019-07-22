@@ -1,0 +1,22 @@
+{
+  "name": "MOTools",
+  "version": "0.1.0",
+  "summary": "A short description of MOTools.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Caprioce/MOTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Caprioce": "zhangchi@chiyue365.com"
+  },
+  "source": {
+    "git": "https://github.com/Caprioce/MOTools.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MOTools/Classes/**/*"
+}

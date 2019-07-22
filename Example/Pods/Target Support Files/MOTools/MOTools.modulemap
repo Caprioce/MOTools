@@ -1,0 +1,6 @@
+framework module MOTools {
+  umbrella header "MOTools-umbrella.h"
+
+  export *
+  module * { export * }
+}
