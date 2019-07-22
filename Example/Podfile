@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MOTools_Example' do
+  pod 'MOTools', :path => '../'
+
+  target 'MOTools_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
